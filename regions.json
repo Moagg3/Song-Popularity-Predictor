@@ -1,0 +1,298 @@
+[
+	{
+		"id": "global",
+		"value": "Global"
+	},
+	{
+		"id": "ar",
+		"value": "Argentina"
+	},
+	{
+		"id": "au",
+		"value": "Australia"
+	},
+	{
+		"id": "at",
+		"value": "Austria"
+	},
+	{
+		"id": "by",
+		"value": "Belarus"
+	},
+	{
+		"id": "be",
+		"value": "Belgium"
+	},
+	{
+		"id": "bo",
+		"value": "Bolivia"
+	},
+	{
+		"id": "br",
+		"value": "Brazil"
+	},
+	{
+		"id": "bg",
+		"value": "Bulgaria"
+	},
+	{
+		"id": "ca",
+		"value": "Canada"
+	},
+	{
+		"id": "cl",
+		"value": "Chile"
+	},
+	{
+		"id": "co",
+		"value": "Colombia"
+	},
+	{
+		"id": "cr",
+		"value": "Costa Rica"
+	},
+	{
+		"id": "cy",
+		"value": "Cyprus"
+	},
+	{
+		"id": "cz",
+		"value": "Czech Republic"
+	},
+	{
+		"id": "dk",
+		"value": "Denmark"
+	},
+	{
+		"id": "do",
+		"value": "Dominican Republic"
+	},
+	{
+		"id": "ec",
+		"value": "Ecuador"
+	},
+	{
+		"id": "eg",
+		"value": "Egypt"
+	},
+	{
+		"id": "sv",
+		"value": "El Salvador"
+	},
+	{
+		"id": "ee",
+		"value": "Estonia"
+	},
+	{
+		"id": "fi",
+		"value": "Finland"
+	},
+	{
+		"id": "fr",
+		"value": "France"
+	},
+	{
+		"id": "de",
+		"value": "Germany"
+	},
+	{
+		"id": "gr",
+		"value": "Greece"
+	},
+	{
+		"id": "gt",
+		"value": "Guatemala"
+	},
+	{
+		"id": "hn",
+		"value": "Honduras"
+	},
+	{
+		"id": "hk",
+		"value": "Hong Kong"
+	},
+	{
+		"id": "hu",
+		"value": "Hungary"
+	},
+	{
+		"id": "is",
+		"value": "Iceland"
+	},
+	{
+		"id": "in",
+		"value": "India"
+	},
+	{
+		"id": "id",
+		"value": "Indonesia"
+	},
+	{
+		"id": "ie",
+		"value": "Ireland"
+	},
+	{
+		"id": "il",
+		"value": "Israel"
+	},
+	{
+		"id": "it",
+		"value": "Italy"
+	},
+	{
+		"id": "jp",
+		"value": "Japan"
+	},
+	{
+		"id": "kz",
+		"value": "Kazakhstan"
+	},
+	{
+		"id": "lv",
+		"value": "Latvia"
+	},
+	{
+		"id": "lt",
+		"value": "Lithuania"
+	},
+	{
+		"id": "lu",
+		"value": "Luxembourg"
+	},
+	{
+		"id": "my",
+		"value": "Malaysia"
+	},
+	{
+		"id": "mx",
+		"value": "Mexico"
+	},
+	{
+		"id": "ma",
+		"value": "Morocco"
+	},
+	{
+		"id": "nl",
+		"value": "Netherlands"
+	},
+	{
+		"id": "nz",
+		"value": "New Zealand"
+	},
+	{
+		"id": "ni",
+		"value": "Nicaragua"
+	},
+	{
+		"id": "ng",
+		"value": "Nigeria"
+	},
+	{
+		"id": "no",
+		"value": "Norway"
+	},
+	{
+		"id": "pk",
+		"value": "Pakistan"
+	},
+	{
+		"id": "pa",
+		"value": "Panama"
+	},
+	{
+		"id": "py",
+		"value": "Paraguay"
+	},
+	{
+		"id": "pe",
+		"value": "Peru"
+	},
+	{
+		"id": "ph",
+		"value": "Philippines"
+	},
+	{
+		"id": "pl",
+		"value": "Poland"
+	},
+	{
+		"id": "pt",
+		"value": "Portugal"
+	},
+	{
+		"id": "ro",
+		"value": "Romania"
+	},
+	{
+		"id": "sa",
+		"value": "Saudi Arabia"
+	},
+	{
+		"id": "sg",
+		"value": "Singapore"
+	},
+	{
+		"id": "sk",
+		"value": "Slovakia"
+	},
+	{
+		"id": "za",
+		"value": "South Africa"
+	},
+	{
+		"id": "kr",
+		"value": "South Korea"
+	},
+	{
+		"id": "es",
+		"value": "Spain"
+	},
+	{
+		"id": "se",
+		"value": "Sweden"
+	},
+	{
+		"id": "ch",
+		"value": "Switzerland"
+	},
+	{
+		"id": "tw",
+		"value": "Taiwan"
+	},
+	{
+		"id": "th",
+		"value": "Thailand"
+	},
+	{
+		"id": "tr",
+		"value": "Turkey"
+	},
+	{
+		"id": "ae",
+		"value": "UAE"
+	},
+	{
+		"id": "ua",
+		"value": "Ukraine"
+	},
+	{
+		"id": "gb",
+		"value": "United Kingdom"
+	},
+	{
+		"id": "uy",
+		"value": "Uruguay"
+	},
+	{
+		"id": "us",
+		"value": "USA"
+	},
+	{
+		"id": "ve",
+		"value": "Venezuela"
+	},
+	{
+		"id": "vn",
+		"value": "Vietnam"
+	}
+]
