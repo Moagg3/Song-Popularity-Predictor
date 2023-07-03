@@ -1,7 +1,7 @@
 # HitOrMiss - ML and Backend
 
 ## DESCRIPTION:
-This part of the application is responsible for the Machine Learning and backend for predicting the Hit percentage for a sing. 
+This part of the application is responsible for the Machine Learning and backend for predicting the Hit percentage for a song. 
 The final outcome of this repository is an API that can be used for making country-wise hit probability prediction. 
 
 File description and responsibilities of each component: 
